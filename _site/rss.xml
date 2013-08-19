@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>雪人</title>
+        <description>雪人 - eason</description>
+        <link>http://liuzhaodong.github.io</link>
+        <link>http://liuzhaodong.github.io</link>
+        <lastBuildDate>2013-07-10T10:34:28+08:00</lastBuildDate>
+        <pubDate>2013-07-10T10:34:28+08:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>test</title>
+                <description>&lt;h1 id='id1'&gt;测试程序&lt;/h1&gt;</description>
+                <link>http://liuzhaodong.github.io/2013/07/10/test</link>
+                <guid>http://liuzhaodong.github.io/2013/07/10/test</guid>
+                <pubDate>2013-07-10T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>new post</title>
+                <description></description>
+                <link>http://liuzhaodong.github.io/2013/07/10/new-post</link>
+                <guid>http://liuzhaodong.github.io/2013/07/10/new-post</guid>
+                <pubDate>2013-07-10T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>C语言函数的static修饰符</title>
+                <description>&lt;p&gt;C语言函数前加static修饰符，表示该函数只在当前文件可用。&lt;/p&gt;</description>
+                <link>http://liuzhaodong.github.io/2013/07/01/hello-world</link>
+                <guid>http://liuzhaodong.github.io/2013/07/01/hello-world</guid>
+                <pubDate>2013-07-01T00:00:00+08:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>
